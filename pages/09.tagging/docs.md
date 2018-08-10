@@ -12,6 +12,7 @@ In addition to a prepopulated menu of options, Select2 can dynamically create ne
 <div class="s2-example">
   <p>
     <select class="js-example-tags form-control">
+        <option>Select</option>
       <option selected="selected">orange</option>
       <option>white</option>
       <option>purple</option>

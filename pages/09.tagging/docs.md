@@ -21,6 +21,7 @@ In addition to a prepopulated menu of options, Select2 can dynamically create ne
 
 ```
 <select class="form-control">
+<option>-Select-</option>
   <option selected="selected">orange</option>
   <option>white</option>
   <option>purple</option>
